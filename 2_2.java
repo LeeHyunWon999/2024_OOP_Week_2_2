@@ -17,7 +17,7 @@ class test {
       ______;
     }
     if(secondLastDigit == 0) {
-      ______'
+      ______;
         }
     if(thirdLastDigit == 0) {
       ______;
